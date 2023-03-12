@@ -1,8 +1,8 @@
 //configura email
-git config --global user.email eltonbarbosagomes@gmail.com
+git config --global user.email camilabia.csilva@gmail.com
 
 //configura usuário
-git config --global user.name Elton Barbosa Gomes
+git config --global user.name Camila da Cunha Silva
 
 
 
@@ -18,7 +18,7 @@ alguma pasta e inicalize o repositorio.
 git init
 
 //adciona o endereco do repositorio remoto
-git remote add origin https://github.com/eltonbgomes/ecommerce
+git remote add origin https://github.com/camilacunhasilva/estudos
 
 
 //faz download do repositorio remoto no local
