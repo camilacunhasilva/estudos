@@ -2,7 +2,7 @@
 git config --global user.email camilabia.csilva@gmail.com
 
 //configura usuário
-git config --global user.name Camila da Cunha Silva
+git config --global user.name camilacunhasilva
 
 
 
