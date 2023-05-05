@@ -33,26 +33,14 @@ int main(){
     tj=1+tj;
 
     vf=tj;
-    printf("%f",tj);
 
-    for (int i = 0; i < pm-1; i++);
-    {
+    int i;
+    for (i = 0; i < pm-1; i++){
         vf=vf*tj;
-        printf("\n%f",vf);
     }
     vf=vp*vf;
     
-    
-
-    printf("Valor Futuro : %.2f", vf);
-
-
-
-
-
-
+    printf("\nValor Futuro : R$ %.2f\n", vf);
 
     return 0;
-
 }
-
