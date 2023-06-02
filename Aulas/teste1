@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+int main(){
+
+    int n;
+    int m;
+    int resultado;
+
+    n = 34;
+    m = 21;
+
+    resultado = n*m;
+
+    printf("\nO valor de n %d x m %d: %d ", n,m,resultado);
+
+
+
+    return 0;
+}
